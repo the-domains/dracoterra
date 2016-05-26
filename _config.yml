@@ -1,0 +1,14 @@
+layout_spectrum: 0.366282808361575
+typography_spectrum: 0.1567818340845406
+color:
+  brandStrength: 0.6422153445892036
+  lightness: 0.12394658382982016
+  saturation: 0.6685642271768302
+  rhythmicContrast: 0.24018670804798603
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+name: DracoTerra
